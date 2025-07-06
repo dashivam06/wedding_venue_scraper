@@ -39,7 +39,7 @@ Note :
     Install homebrew from https://brew.sh/ and then run those command
 
 ### 3) For Windows
-Download and install Python 3.7+ from the official website: https://www.python.org/downloads/
+Download and install Python 3.7+ from the official website: https://www.python.org/downloads/ .
 Then, use pip to install scrapy 
 
 ```
@@ -55,32 +55,32 @@ pip install scrapy
 
 First, clone the project to your local machine and move to that folder :
 
-    ```
-    git clone https://github.com/dashivam06/wedding_venue_scraper.git
-    cd wedding_venue_scraper
-    ```
+```
+git clone https://github.com/dashivam06/wedding_venue_scraper.git
+cd wedding_venue_scraper
+```
 
 ### 2. Run the spider 
 
-    ```
-    scrapy crawl wedding_venue_spider
-    ```
+```
+scrapy crawl wedding_venue_spider
+```
 ### 3. Export Data
 
     a) To export the scraped data as a JSON file:
 
-    ```
-    scrapy crawl wedding_venue_spider -o output.json
-    ```    
+```
+scrapy crawl wedding_venue_spider -o output.json
+```    
 
     b) To export the scraped data as a CSV file:
 
-    ```
+```
     scrapy crawl wedding_venue_spider -o output.csv
-    ```
-    NOTE : 
-        You can replace output.json or output.csv with any filename you prefer.
-        The exported data files will be saved in your current working directory.
+```
+NOTE : 
+    You can replace output.json or output.csv with any filename you prefer.
+    The exported data files will be saved in your current working directory.
 
 ---
 
