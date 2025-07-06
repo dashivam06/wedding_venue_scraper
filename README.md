@@ -76,7 +76,7 @@ scrapy crawl wedding_venue_spider -o output.json
 b) To export the scraped data as a CSV file:
 
 ```
-    scrapy crawl wedding_venue_spider -o output.csv
+scrapy crawl wedding_venue_spider -o output.csv
 ```
 **NOTE :**  
     You can replace 'output.json' or 'output.csv' with any filename you prefer.  
