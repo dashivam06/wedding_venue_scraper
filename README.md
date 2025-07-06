@@ -19,7 +19,7 @@ cleans and processes the data, and exports it in multiple formats including CSV 
 - Python 3.7+
 - Scrapy
 
-
+The following commands will help you **download and install Python 3.7+** and **install Scrapy** on your system.
 
 ### 1) For Linux/Debian
 
@@ -78,7 +78,7 @@ b) To export the scraped data as a CSV file:
 ```
     scrapy crawl wedding_venue_spider -o output.csv
 ```
-NOTE : 
+**NOTE :**
     You can replace output.json or output.csv with any filename you prefer.
     The exported data files will be saved in your current working directory.
 
