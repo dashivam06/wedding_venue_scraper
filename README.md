@@ -34,10 +34,9 @@ pip3 install scrapy
 brew install python
 pip3 install scrapy
 ```
----
-
-        If you dont have homebrew installed, 
-        install homebrew from https://brew.sh/ and then run those command
+Note :
+    If you dont have homebrew installed, 
+    Install homebrew from https://brew.sh/ and then run those command
 
 3) For Windows
     Download and install Python 3.7+ from the official website:
