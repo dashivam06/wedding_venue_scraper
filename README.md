@@ -38,14 +38,14 @@ Note :
     If you dont have homebrew installed, 
     Install homebrew from https://brew.sh/ and then run those command
 
-3) For Windows
+### 3) For Windows
     Download and install Python 3.7+ from the official website:
     https://www.python.org/downloads/
 
     Then, use pip to install scrapy 
-        ```
-        pip install scrapy
-        ```
+```
+pip install scrapy
+```
 
 ---
 
