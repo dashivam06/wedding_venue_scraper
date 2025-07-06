@@ -19,9 +19,9 @@ cleans and processes the data, and exports it in multiple formats including CSV 
 - Python 3.7+
 - Scrapy
 
-### 1) For Linux/Debian
 
-    Use these commands:
+
+### 1) For Linux/Debian
 
 ```bash
 sudo apt update
@@ -30,12 +30,11 @@ pip3 install scrapy
 ```
 
 ### 2) For MacOS (Use Homebrew)
-        Use these commands:
-        ```
-        brew install python
-        pip3 install scrapy
-        ```
-
+```bash
+brew install python
+pip3 install scrapy
+```
+---
 
         If you dont have homebrew installed, 
         install homebrew from https://brew.sh/ and then run those command
