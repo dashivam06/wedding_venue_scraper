@@ -80,7 +80,7 @@ b) To export the scraped data as a CSV file:
 ```
 **NOTE :**
     You can replace output.json or output.csv with any filename you prefer.  
-    The exported data files will be saved in your current working directory.
+        The exported data files will be saved in your current working directory.
 
 ---
 
