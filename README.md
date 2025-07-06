@@ -67,13 +67,13 @@ scrapy crawl wedding_venue_spider
 ```
 ### 3. Export Data
 
-    a) To export the scraped data as a JSON file:
+a) To export the scraped data as a JSON file:
 
 ```
 scrapy crawl wedding_venue_spider -o output.json
 ```    
 
-    b) To export the scraped data as a CSV file:
+b) To export the scraped data as a CSV file:
 
 ```
     scrapy crawl wedding_venue_spider -o output.csv
